@@ -1,5 +1,9 @@
 # DSA Study Roadmap — FAANG / High-Paying SWE
 
+The plan this repo's programs were written against. Code for a topic is added
+only once it is implemented and tested; see the README for what currently
+exists.
+
 ## Phase 1: Foundations (Weeks 1-2)
 
 | Topic | Goal | Problems |
@@ -22,7 +26,7 @@
 |-------|------|----------|
 | Heaps / Priority Queue | Top K, median finding | 6 |
 | Graphs | Adj list, DFS/BFS, topological sort, connected components | 10 |
-| Dynamic Programming | 1D DP, 2D DP, knapSack, LCS, LIS | 15 |
+| Dynamic Programming | 1D DP, 2D DP, knapsack, LCS, LIS | 15 |
 
 ## Phase 4: System Design (Week 7+)
 
@@ -33,14 +37,15 @@
 
 ## Phase 5: Behavioral (Ongoing)
 
-- Prepare 5-7 STAR stories:
-  - Conflict with a teammate
-  - Technical challenge solved
-  - Design/architecture decision
-  - Mentored someone
-  - Took initiative
-  - Failed and learned
-  - Made something faster / cheaper
+Prepare 5-7 STAR stories:
+
+- Conflict with a teammate
+- Technical challenge solved
+- Design/architecture decision
+- Mentored someone
+- Took initiative
+- Failed and learned
+- Made something faster / cheaper
 
 ## Resources
 
